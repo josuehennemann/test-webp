@@ -8,13 +8,13 @@ How to convert image (jpeg) to wepb format, using package [`webp`](http://github
 
 ## Using
 
-`git clone git@github.com:josuehennemann/test-webp.git
+`git clone git@github.com:josuehennemann/test-webp.git`
 
-cd test-webp
+`cd test-webp`
 
-go build
+`go build`
 
-./test-web {image.jpeg}
+`./test-web {image.jpeg}`
 
 After processing, the new image will be saved in the same directory as the original image, but with the webp extension
 
