@@ -1,6 +1,6 @@
 # test-webp
 
-How to convert image (jpeg) to wepb format, using package [`webp`](github.com/chai2010/webp)
+How to convert image (jpeg) to wepb format, using package [`webp`](http://github.com/chai2010/webp)
 
 ## Prerequisite
 	
